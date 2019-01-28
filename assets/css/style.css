@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+}
+
+span{
+    color:green;
+}
+
+p{
+    color:blue;
+}
+
+.jumbotron{
+     background-color: dimgray;
+}
